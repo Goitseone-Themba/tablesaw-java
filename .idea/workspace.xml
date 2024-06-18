@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deff4669-45d6-42fe-a55b-c42b63bb42bf" name="Changes" comment="initial commit" />
+    <list default="true" id="deff4669-45d6-42fe-a55b-c42b63bb42bf" name="Changes" comment="experiment with buttons and checkboxes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718621955979</updated>
       <workItem from="1718621957004" duration="3482000" />
-      <workItem from="1718644786612" duration="2302000" />
+      <workItem from="1718644786612" duration="6414000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -67,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718693389504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="experiment with buttons and checkboxes">
+      <option name="closed" value="true" />
+      <created>1718693904640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718693904640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="experiment with buttons and checkboxes" />
+    <option name="LAST_COMMIT_MESSAGE" value="experiment with buttons and checkboxes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
